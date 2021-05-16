@@ -40,4 +40,4 @@ Deshalb haben wir das Objekt mit **komplett Dreiecke Netz**(komplett TriangleMes
 Das war alles! Vielen Dank!
 Wenn Sie mit unser Code nicht verstanden, bitte kontaktieren Sie uns!
 
-> Mailto: [Chang Luo / Zhaoxi Wang](mailto:chang.luo@stud.hs-hannover.de?cc=chang.luo@gmx.de&subject=CG1_Uebung_Feedback)
+> Mailto: [Chang Luo](mailto:chang.luo@stud.hs-hannover.de?cc=chang.luo@gmx.de&subject=CG1_Uebung_Feedback)
